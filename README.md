@@ -1,3 +1,5 @@
+![matrix-menorjpg](https://user-images.githubusercontent.com/42419543/232058479-b54b503e-cd01-43be-92b3-0f6eb1512ab4.jpg)
+
 # Decoding the Matrix
 
 The project aims to create a system that allows users to rent a reality inside of The Matrix.
