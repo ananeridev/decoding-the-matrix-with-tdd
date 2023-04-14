@@ -1,0 +1,23 @@
+[
+  {
+    "id": "6adc6ed0-deb0-40e6-8882-198984ab893c",
+    "name": "Jetta",
+    "releaseYear": 2019,
+    "available": true,
+    "hasSmith": true
+  },
+  {
+    "id": "b3e9d589-de57-47a1-87f7-eb9f5adc4286",
+    "name": "Aventador",
+    "releaseYear": 2020,
+    "available": true,
+    "hasSmith": true
+  },
+  {
+    "id": "0831cfa2-a2e0-4eea-8013-31956bf6e859",
+    "name": "Model T",
+    "releaseYear": 2019,
+    "available": true,
+    "hasSmith": true
+  }
+]
